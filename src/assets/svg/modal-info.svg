@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39.391" height="39.391" viewBox="0 0 39.391 39.391">
+  <g id="Group_8164" data-name="Group 8164" transform="translate(-100.305 -165.304)">
+    <g id="Group_7335" data-name="Group 7335" transform="translate(240.9 371.119) rotate(180)">
+      <path id="Path_56421" data-name="Path 56421" d="M146.7,70a1.7,1.7,0,1,0,1.7,1.7,1.7,1.7,0,0,0-1.7-1.7" transform="translate(-26.251 104.675)" fill="#ffcd27"/>
+      <path id="Path_56422" data-name="Path 56422" d="M151.572,140c-.978,0-1.2.793-1.2,1.771V152.4c0,.978.219,1.771,1.2,1.771s1.277-.793,1.277-1.771V141.771c0-.978-.3-1.771-1.277-1.771" transform="translate(-31.123 42.277)" fill="#ffcd27"/>
+    </g>
+    <path id="Icon_Shape" data-name="Icon Shape" d="M19.7,0a19.7,19.7,0,1,0,19.7,19.7,17.222,17.222,0,0,0-1.042-6.2l-2.46,2.415a15.255,15.255,0,0,1,.474,3.788A16.666,16.666,0,1,1,19.7,3.03,16.222,16.222,0,0,1,31.2,7.718l2.13-2.13A19.222,19.222,0,0,0,19.7,0Z" transform="translate(100.305 165.304)" fill="#ffcd27"/>
+  </g>
+</svg>
